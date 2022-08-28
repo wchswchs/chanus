@@ -1,4 +1,4 @@
-# chanus
+# Chanus
 Chanus is next generation operating system，it's so fast because it implement the separation of data flow and control flow. 
 
 Chanus make data flow running in user space, so data doesn't need to go through the kernel, avoding to copy between kernel and user space.
