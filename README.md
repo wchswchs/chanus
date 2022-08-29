@@ -8,6 +8,10 @@ Chanus make conrol flow running in kernel space, so it can prevent processes/thr
 ## Architecture
 ![os 001](https://user-images.githubusercontent.com/1735799/187169571-35c2945d-f24a-4bae-a478-6d9a00feedef.jpeg)
 
+DPDK：https://www.dpdk.org/
+
+PTDK：Development Kit of memory management of processes and threads control block
+
 ## Process Context Switch
 ![context_switch 001](https://user-images.githubusercontent.com/1735799/187160804-5eba51ca-6246-4a22-929e-0113161e8a37.jpeg)
 
