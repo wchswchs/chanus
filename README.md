@@ -9,7 +9,7 @@ Chanus make conrol flow running in kernel space, so it can prevent processes/thr
 - Network transmission more faster than Linux
 - Processes/Threads context switch more faster than Linux
 - Custom driver using any programing language，such as C, C++, Java, Rust, Go etc.
-- Custom processes/threads scheduling strategy
+- Custom processes/threads scheduling strategy using any programing language，such as C, C++, Java, Rust, Go etc.
 
 ## Architecture
 ![os 001](https://user-images.githubusercontent.com/1735799/187169571-35c2945d-f24a-4bae-a478-6d9a00feedef.jpeg)
