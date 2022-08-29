@@ -5,7 +5,7 @@ Chanus make data flow running in user space, so data doesn't need to go through 
 
 Chanus make conrol flow running in kernel space, so it can prevent processes/threads accessing system resource.
 
-## Feautre
+## Feature
 - Network transmission more faster than Linux
 - Processes/Threads context switch more faster than Linux
 - Custom driver using any programing language，such as C, C++, Java, Rust, Go etc.
