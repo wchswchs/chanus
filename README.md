@@ -6,7 +6,7 @@ Chanus make data flow running in user space, so data doesn't need to go through 
 Chanus make conrol flow running in kernel space, so it can prevent processes/threads accessing system resource.
 
 ## Architecture
-![os 001](https://user-images.githubusercontent.com/1735799/187162462-ed71c3b4-2ba0-4b1d-97ce-0245ddca4553.jpeg)
+![os 001](https://user-images.githubusercontent.com/1735799/187169571-35c2945d-f24a-4bae-a478-6d9a00feedef.jpeg)
 
 ## Process Context Switch
 ![context_switch 001](https://user-images.githubusercontent.com/1735799/187160804-5eba51ca-6246-4a22-929e-0113161e8a37.jpeg)
