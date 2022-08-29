@@ -3,7 +3,10 @@ Chanus is next generation operating system，it's so fast and safe because it im
 
 Chanus make data flow running in user space, so data doesn't need to go through the kernel, avoding to copy between kernel and user space.
 
-Chanus make conrol flow running in kernel space, so it can prevent process/thread accessing system resource.
+Chanus make conrol flow running in kernel space, so it can prevent processes/threads accessing system resource.
+
+## Feature
+
 
 ## Architecture
 ![os 001](https://user-images.githubusercontent.com/1735799/187162462-ed71c3b4-2ba0-4b1d-97ce-0245ddca4553.jpeg)
