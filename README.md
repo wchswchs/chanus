@@ -1,5 +1,5 @@
 # Chanus
-Chanus is distributed kernel operating system，it's so fast and safe because it implement the separation of data flow and control flow. 
+Chanus is a distributed kernels operating system，it's so fast and safe because it implement the separation of data flow and control flow. 
 
 Chanus make data flow running in user space, so data doesn't need to go through the kernel, avoding to copy between kernel and user space.
 
@@ -12,7 +12,7 @@ Chanus make conrol flow running in kernel space, so it can prevent processes/thr
 - Custom processes/threads scheduling strategy using any programing language
 
 ## Architecture
-![os 001](https://user-images.githubusercontent.com/1735799/188260674-72350122-18ff-440c-94ac-539785fea451.jpeg)
+![os 001](https://user-images.githubusercontent.com/1735799/188263938-20e777d9-fe1e-4850-9341-0d536f094a35.jpeg)
 
 DPDK：https://www.dpdk.org/
 
